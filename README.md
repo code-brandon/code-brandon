@@ -1,4 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=code-cara&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=code-brandon&show_icons=true&theme=radical" />
+
+<!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-brandon&show_icons=true&theme=radical) -->
 
 ### 你好Code世界！
 
