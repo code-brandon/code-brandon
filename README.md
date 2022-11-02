@@ -14,3 +14,10 @@
 code-cara/code-cara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheBlindM&hide=handlebars&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhisheknaiidu" />
+
+
+### My repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-brandon&repo=mz-cloud)](https://github.com/code-brandon/mz-cloud)
