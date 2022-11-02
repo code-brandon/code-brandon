@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=code-brandon&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=code-brandon&show_icons=true&count_private=true&theme=radical" />
 
-<!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-brandon&show_icons=true&theme=radical) -->
+<!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-brandon&show_icons=true&count_private=true&theme=radical) -->
 
 ### 你好Code世界！
 
@@ -15,9 +15,26 @@ code-cara/code-cara is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheBlindM&hide=handlebars&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhisheknaiidu" />
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-brandon&theme=radical&hide=handlebars&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhisheknaiidu" />
 
 
-### My repositories
+### 我的项目
 
+<!-- <p>
+<a href="https://github.com/code-brandon/mz-cloud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=code-brandon&repo=mz-cloud" />
+</a>
+  
+  
+<a href="https://github.com/code-brandon/mz-cloud-ui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=code-brandon&repo=mz-cloud-ui" />
+</a>
+</p> -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-brandon&repo=mz-cloud)](https://github.com/code-brandon/mz-cloud)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-brandon&repo=mz-cloud-ui)](https://github.com/code-brandon/mz-cloud-ui)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-brandon&repo=parsing-tiktok-video)](https://github.com/code-brandon/parsing-tiktok-video)
