@@ -16,6 +16,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
+  
+> **访问次数:** ![https://github.com/code-brandon](https://komarev.com/ghpvc/?username=code-brandon&color=blue&style=flat-square)
+
+> ![https://github.com/code-brandon](https://profile-counter.glitch.me/code-brandon/count.svg) 
+
+---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-brandon&theme=radical&hide=handlebars&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhisheknaiidu" />
 
